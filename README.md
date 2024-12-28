@@ -4,7 +4,7 @@
 I'm a **Full-Stack Developer** with over 5 years of professional experience, including 4+ years specializing in full-stack development. Passionate about designing and building scalable, high-performance web applications. I thrive on crafting clean, maintainable code and driving innovation through technology.
 
 - 🌐 **Tech Stack**: Node.js, ReactJS, JavaScript, HTML/CSS, SQL, NoSQL
-- 🤖 **AI Enthusiast**: Exploring AI tools like ChatGPT and Copilot to enhance workflows
+- 🤖 **AI Enthusiast**: Exploring AI tools like ChatGPT and Copilot to enhance workflows, while actively learning Artificial Intelligence and Machine Learning to expand my expertise.
 - 🚀 **Hobbies**: Solving problems, learning new technologies, and building impactful projects
 
 ---
